@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15T08:18:44+02:00">
+<shop>
+<name>Мастер-фид для всех категорий</name>
+<company>ООО Тест</company>
+<url>https://flowwow.loc</url>
+<categories>
+<category id="11">Кондитерские и пекарни</category>
+</categories>
+<offers>
+<offer id="11">
+<categoryId>11</categoryId>
+<name>Кондитерские и пекарни</name>
+<price>1800</price>
+<description>Прекрасный тортик</description>
+<picture>https://cdn.pixabay.com/photo/2017/04/17/23/50/dice-2237894_1280.jpg</picture>
+<weight>0.5</weight>
+<available>true</available>
+<param name="Состав">Мука, яйца, сахар, масло, дрожжи</param>
+<param name="Высота, см">6</param>
+<param name="Ширина, см">12</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
