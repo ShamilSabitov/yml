@@ -8,7 +8,7 @@
 <category id="11">Кондитерские и пекарни</category>
 </categories>
 <offers>
-<offer id="11">
+<offer id="-11">
 <categoryId>11</categoryId>
 <name>Кондитерские и пекарни</name>
 <price>1800</price>
