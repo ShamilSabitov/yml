@@ -1,0 +1,47 @@
+	<?xml version="1.0" encoding="UTF-8"?>
+	<yml_catalog date="2025-08-15T08:13:49+02:00">
+		<shop>
+			<name>Мастер-фид для всех категорий</name>
+			<company>ООО Тест</company>
+			<url>https://flowwow.loc</url>
+			<categories>
+				<category id="37">Цветы оптом 435</category>
+				<category id="1">Цветы 1</category>
+			</categories>
+			<offers>
+				<offer id="1234">
+					<categoryId>37</categoryId>
+					<name>Тест цветы оптом</name>
+					<price>150</price>
+					<description>Одна красная роза</description>
+					<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+					<available>true</available>
+					<quantity_in_package>11</quantity_in_package>
+					<count>15</count>
+					<param name="Высота, мм">500</param>
+				</offer>
+			<offer id="501">
+					<categoryId>37</categoryId>
+					<name>Роза красная 50 см (опт)</name>
+					<price>150</price>
+					<description>Классическая красная роза, сорт Freedom. Продается пачками.</description>
+					<picture>https://cdn.pixabay.com/photo/2017/08/02/10/05/chrysanthemum-2570597_1280.jpg</picture>
+					<available>true</available>
+					<quantity_in_package>10.1</quantity_in_package>
+					<count>20</count>
+					<param name="Высота, мм">500</param>
+				</offer>
+				<offer id="1">
+					<categoryId>1</categoryId>
+					<price>1500</price>
+					<name>Цветы 1</name>
+					<description>Классический букет из 5 роз</description>
+					<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+					<quantity_in_package>1</quantity_in_package>
+					<consist name="роза" unit="шт">5</consist>
+					<param name="Высота, мм">400</param>
+					<param name="Ширина, мм">250</param>
+				</offer>			
+			</offers>
+		</shop>
+	</yml_catalog>
