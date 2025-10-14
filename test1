@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-08T12:00:00+03:00">
+    <shop>
+        <name>Магазин для СДЭК</name>
+        <company>ООО Тест</company>
+        <url>https://flowwow.loc</url>
+        <categories>
+            <category id="13">Подарки и сувениры</category>
+        </categories>
+        <offers>
+            <offer id="3333333">
+                <categoryId>13</categoryId>
+                <price>111</price>
+                <name>Медведь узник любви, белый (Тест СДЭК-1)</name>
+                <description>Мягкая игрушка, белый медведь.</description>
+                <picture>https://cdn.pixabay.com/photo/2016/11/29/08/33/bear-1868351_1280.jpg</picture>
+                <weight>0.2</weight>
+                <param name="Высота, мм">150</param>
+                <param name="Ширина, мм">100</param>
+                <param name="Длина, мм">50</param>
+                <delivery>true</delivery>
+            </offer>
+            <offer id="1511512">
+                <categoryId>13</categoryId>
+                <price>777</price>
+                <name>Зайчик Мимимишка, розовый (Тест СДЭК-2)</name>
+                <description>Мягкая игрушка, розовый зайчик.</description>
+                <picture>https://cdn.pixabay.com/photo/2014/12/10/18/33/bunny-563574_1280.jpg</picture>
+                <weight>0.1</weight>
+                <param name="Высота, мм">100</param>
+                <param name="Ширина, мм">80</param>
+                <param name="Длина, мм">40</param>
+                <delivery>true</delivery>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
