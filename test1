@@ -10,7 +10,7 @@
         <offers>
             <offer id="3333333">
                 <categoryId>13</categoryId>
-                <price>16111</price>
+                <price>555</price>
                 <name>TEEEEST11</name>
                 <description>Мягкая игрушка, белый медведь.</description>
                 <picture>https://cdn.pixabay.com/photo/2016/11/29/08/33/bear-1868351_1280.jpg</picture>
@@ -22,7 +22,7 @@
             </offer>
             <offer id="1511512">
                 <categoryId>13</categoryId>
-                <price>161116</price>
+                <price>777</price>
                 <name>TEEEEST1133</name>
                 <description>Мягкая игрушка, розовый зайчик.</description>
                 <picture>https://cdn.pixabay.com/photo/2014/12/10/18/33/bunny-563574_1280.jpg</picture>
