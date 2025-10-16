@@ -1,36 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-08-08T12:00:00+03:00">
+<yml_catalog date="2025-01-20T12:00:00+03:00">
     <shop>
-        <name>Магазин для СДЭК</name>
-        <company>ООО Тест</company>
+        <name>Флоувоу минимальный магазин</name>
+        <company>ООО Флоувоу</company>
         <url>https://flowwow.loc</url>
         <categories>
-            <category id="13">Подарки и сувениры</category>
+            <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="3333333">
-                <categoryId>13</categoryId>
-                <price>555</price>
-                <name>TEEEEST11</name>
-                <description>Мягкая игрушка, белый медведь.</description>
-                <picture>https://cdn.pixabay.com/photo/2016/11/29/08/33/bear-1868351_1280.jpg</picture>
-                <weight>0.2</weight>
-                <param name="Высота, мм">150</param>
-                <param name="Ширина, мм">100</param>
-                <param name="Длина, мм">50</param>
-                <delivery>true</delivery>
-            </offer>
-            <offer id="1511512">
-                <categoryId>13</categoryId>
-                <price>777</price>
-                <name>TEEEEST1133</name>
-                <description>Мягкая игрушка, розовый зайчик.</description>
-                <picture>https://cdn.pixabay.com/photo/2014/12/10/18/33/bunny-563574_1280.jpg</picture>
-                <weight>0.1</weight>
-                <param name="Высота, мм">100</param>
-                <param name="Ширина, мм">80</param>
-                <param name="Длина, мм">40</param>
-                <delivery>true</delivery>
+            <offer id="623" available="true">
+                <categoryId>1</categoryId>
+                <price>5000</price>
+                <name>Букет для тестов фото1</name>
+                <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
+                <picture>https://www.axaa.ru/imgs/2023/elements/ym_card_unid_t0.png</picture>
+<picture>https://www.axaa.ru/imgs/2023/elements/ym_card_unid2.png</picture>
+<picture>https://fleurs.su/image/flormate/4/20250928/740a891ff67f7b1dab2170559f08f48f_boxed.jpg</picture>
+<picture>https://fleurs.su/image/flormate/4/20250928/029f497971e11cce9f3f3111600f245f_boxed.jpg</picture>
+<picture>https://fleurs.su/image/flormate/4/20250928/5e40761a66b5204463cf06bfa5a77bba_boxed.jpg</picture>
+<param name="Высота, мм">500</param>
+                <param name="Ширина, мм">500</param>
+                <consist name="роза" unit="шт">20</consist>
             </offer>
         </offers>
     </shop>
