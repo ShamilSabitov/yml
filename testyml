@@ -1,36 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-08-08T12:00:00+03:00">
+<yml_catalog date="2025-01-20T12:00:00+03:00">
     <shop>
-        <name>Магазин для СДЭК</name>
-        <company>ООО Тест</company>
+        <name>Флоувоу минимальный магазин</name>
+        <company>ООО Флоувоу</company>
         <url>https://flowwow.loc</url>
         <categories>
-            <category id="13">Подарки и сувениры</category>
+            <category id="1">Цветы</category>
         </categories>
         <offers>
-            <offer id="111222">
-                <categoryId>13</categoryId>
-                <price>111</price>
-                <name>Медведь узник любви, белый (Тест СДЭК-1)</name>
-                <description>Мягкая игрушка, белый медведь.</description>
-                <picture>https://cdn.pixabay.com/photo/2016/11/29/08/33/bear-1868351_1280.jpg</picture>
-                <weight>0.2</weight>
-                <param name="Высота, мм">150</param>
-                <param name="Ширина, мм">100</param>
-                <param name="Длина, мм">50</param>
-                <delivery>true</delivery>
-            </offer>
-            <offer id="222333">
-                <categoryId>13</categoryId>
-                <price>777</price>
-                <name>Зайчик Мимимишка, розовый (Тест СДЭК-2)</name>
-                <description>Мягкая игрушка, розовый зайчик.</description>
-                <picture>https://cdn.pixabay.com/photo/2014/12/10/18/33/bunny-563574_1280.jpg</picture>
-                <weight>0.1</weight>
-                <param name="Высота, мм">100</param>
-                <param name="Ширина, мм">80</param>
-                <param name="Длина, мм">40</param>
-                <delivery>true</delivery>
+            <offer id="1004" available="true">
+                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
+                 <!-- form['cost'] -->
+                <name>Роза красная мимниальный</name> <!-- form['name'] -->
+                <description>Красивая красная роза прекрасная великолепная</description> <!-- form['description'] -->
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+<picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+<picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+                <param name="Высота, мм">100</param> <!-- form['height'] = 8см -->
+                <param name="Ширина, мм">100</param> <!-- form['width'] = 5см -->
+				<consist name="роза" unit="шт">1</consist>
             </offer>
         </offers>
     </shop>
