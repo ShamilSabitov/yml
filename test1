@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-01-20T12:00:00+03:00">
-    <shop>
-        <name>Флоувоу минимальный магазин</name>
-        <company>ООО Флоувоу</company>
-        <url>https://flowwow.loc</url>
-        <categories>
-            <category id="1">Цветы</category>
-        </categories>
-        <offers>
-            <offer id="5111" available="true">
-                <categoryId>1</categoryId>
-                <price>5000</price>
-                <name>Букет для тестов фото4121</name>
-                <description>Роскошный букет из свежих красных роз. Все изображения в галерее</description>
-<picture>https://www.axaa.ru/imgs/2023/elements/ym_card_unid2.png</picture>
-<picture>https://fleurs.su/image/flormate/4/20250928/740a891ff67f7b1dab2170559f08f48f_boxed.jpg</picture>
-<picture>https://fleurs.su/image/flormate/4/20250928/029f497971e11cce9f3f3111600f245f_boxed.jpg</picture>
-<picture>https://fleurs.su/image/flormate/4/20250928/5e40761a66b5204463cf06bfa5a77bba_boxed.jpg</picture>
-<picture>https://www.axaa.ru/imgs/2023/elements/ym_card_unid_t0.png</picture>
-<param name="Высота, мм">500</param>
-                <param name="Ширина, мм">500</param>
-                <consist name="роза" unit="шт">20</consist>
-            </offer>
-        </offers>
-    </shop>
+<yml_catalog date="2025-08-15T08:13:49+02:00">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.com/admin/shop/view/271125</url>
+		<categories>
+			<category id="2">Цветы 44 сухоцвет</category>
+		</categories>
+		<offers>
+			<offer id="2" available="true">
+				<categoryId>2</categoryId>
+				<name>Цветы 44 сухоцвет</name>
+				<price>1200</price>
+				<description>Букет из лаванды и хлопка</description>
+				<picture>https://cdn.pixabay.com/photo/2018/06/25/11/17/lavender-3497880_1280.jpg</picture>
+				<param name="Высота, мм">300</param>
+				<param name="Ширина, мм">200</param>
+<consist name="роза" unit="шт">5</consist>
+<qty>1</qty>
+			</offer>
+		</offers>
+	</shop>
 </yml_catalog>
