@@ -13,11 +13,11 @@
 				<name>Цветы 44 сухоцвет</name>
 				<price>1200</price>
 				<description>Букет из лаванды и хлопка</description>
-				<picture>https://cdn.pixabay.com/photo/2018/06/25/11/17/lavender-3497880_1280.jpg</picture>
+				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/b8f/kww9ogw0gsimt12ubb3we8hcnk862630.webp</picture>
 				<param name="Высота, мм">300</param>
 				<param name="Ширина, мм">200</param>
 <consist name="роза" unit="шт">5</consist>
-<qty>1</qty>
+<qty>0</qty>
 			</offer>
 		</offers>
 	</shop>
