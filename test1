@@ -22,7 +22,7 @@
 <consist name="роза" unit="шт">5</consist>
 <qty>0</qty>
 			</offer>
-<offer id="2" available="true">
+<offer id="4121612" available="true">
 				<categoryId>33</categoryId>
 				<name>Цветы 22 сухоцвет</name>
 				<price>421</price>
