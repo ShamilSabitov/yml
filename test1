@@ -6,6 +6,7 @@
 		<url>https://flowwow.com/admin/shop/view/271125</url>
 		<categories>
 			<category id="2">Цветы 44 сухоцвет</category>
+			<category id="33">Цветы 22 сухоцвет</category>
 		</categories>
 		<offers>
 			<offer id="2" available="true">
@@ -13,6 +14,19 @@
 				<name>Цветы 44 сухоцвет</name>
 				<price>421</price>
 				<description>Букет из лаванды и хлопка</description>
+				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/b8f/kww9ogw0gsimt12ubb3we8hcnk862630.webp</picture>
+				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/0de/1200_1200_140cd750bba9870f18aada2478b24840a/uqlzuuil26x2zqxygobu2ljl0pamj0m8.webp</picture>
+				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/fbb/1200_1200_140cd750bba9870f18aada2478b24840a/6st9or36u4l4oqe5k9ab8jcs7e6s0gzj.webp</picture>
+				<param name="Высота, мм">300</param>
+				<param name="Ширина, мм">200</param>
+<consist name="роза" unit="шт">5</consist>
+<qty>0</qty>
+			</offer>
+<offer id="2" available="true">
+				<categoryId>33</categoryId>
+				<name>Цветы 22 сухоцвет</name>
+				<price>421</price>
+				<description>Букет из лава1нды и хлопка</description>
 				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/b8f/kww9ogw0gsimt12ubb3we8hcnk862630.webp</picture>
 				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/0de/1200_1200_140cd750bba9870f18aada2478b24840a/uqlzuuil26x2zqxygobu2ljl0pamj0m8.webp</picture>
 				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/fbb/1200_1200_140cd750bba9870f18aada2478b24840a/6st9or36u4l4oqe5k9ab8jcs7e6s0gzj.webp</picture>
