@@ -10,7 +10,7 @@
         <offers>
             <offer id="1004" available="true">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
-                 <!-- form['cost'] -->
+                 <price>110</price>
                 <name>Роза красная мимниальный</name> <!-- form['name'] -->
                 <description>Красивая красная роза прекрасная великолепная</description> <!-- form['description'] -->
                 <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
@@ -22,7 +22,7 @@
             </offer>
 			<offer id="1034" available="true">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
-                 <!-- form['cost'] -->
+                 <price>110</price>
                 <name>Роза красная мимниальный22222</name> <!-- form['name'] -->
                 <description>Красивая красная роза прекрасная великолепная</description> <!-- form['description'] -->
                 <picture>https://lh3.googleusercontent.com</picture>
