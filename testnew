@@ -1,0 +1,29 @@
+<yml_catalog date="2025-06-18 12:00">
+<shop>
+<name>example.shop</name>
+<company>example.shop</company>
+<url>https://flowwow.com/shop/example/</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Категория 1</category>
+</categories>
+<offers>
+<offer id="236" available="true">
+<price>1</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<name>Сертиф_доставка_эл_ключ2</name>
+<count>1</count>
+<picture>https://content2.flowwow-images.com/data/flowers/524x524/30/1701469012_35577830.jpg</picture>
+<param name="Способ доставки">electronic key</param>
+<param name="Минимальное количество для заказа">1</param>
+<param name="Вид поставки">материальный носитель</param>
+<param name="Вес, кг">1</param>
+<description>Описанией</description>
+</offer>
+</offers>
+</shop>
+<script/>
+</yml_catalog>
